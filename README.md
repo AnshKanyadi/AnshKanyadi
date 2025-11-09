@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ansh Kanyadi</h1>
-<h3 align="center">Someone interested to learn about cs and ml</h3>
+<h3 align="center">Someone interested to learn about Computer Science</h3>
 
-- 🌱 I’m currently learning **Deep learning and pytorch**
+- 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **ml research**
+- 👯 I’m looking to collaborate on **cs projects**
 
 - 📫 How to reach me **anshkanyadi@gmail.com**
 
