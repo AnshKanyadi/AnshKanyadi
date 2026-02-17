@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Kanyadi</h1>
 <h3 align="center">Someone interested to learn about Computer Science</h3>
 
-- 🌱 I’m currently learning **C++ and OS fundamentals**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **cs projects**
 
