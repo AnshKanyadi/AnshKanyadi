@@ -1,21 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ansh Kanyadi</h1>
-<h3 align="center">Someone interested to learn about Computer Science</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=hey%2C+i'm+ansh+%F0%9F%91%8B;systems+eng+%C2%B7+ai+infra+%C2%B7+freshman+%40+umass" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning **Go**
-
-- 👯 I’m looking to collaborate on **cs projects**
-
-- 📫 How to reach me **anshkanyadi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/anshkanyadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshkanyadi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshkanyadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshkanyadi" height="30" width="40" /></a>
+<p align="center">
+  <em>I build things at the intersection of systems engineering and AI infrastructure.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:anshkanyadi@gmail.com"><img src="https://img.shields.io/badge/email-anshkanyadi-7C3AED?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ansh-kanyadi-994838284/"><img src="https://img.shields.io/badge/linkedin-ansh--kanyadi-7C3AED?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anshkanyadi&style=flat-square&color=7C3AED" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshkanyadi&show_icons=true&locale=en&layout=compact" alt="anshkanyadi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshkanyadi&show_icons=true&locale=en" alt="anshkanyadi" /></p>
+### what i'm building
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔮 Prismo](https://github.com/AnshKanyadi/Prismo)**
+
+Deterministic replay & counterfactual debugging for AI coding agents. Records every LLM call with token-level fidelity, replays failures exactly, and forks at any decision node to test "what if?" scenarios.
+
+`python` `fastapi` `react` `anthropic sdk` `openai sdk`
+
+</td>
+<td width="50%">
+
+**[⚡ Conduit](https://github.com/AnshKanyadi/Conduit)**
+
+Distributed terminal collaboration engine with a custom binary framing protocol, adaptive flow control, and Linux namespace isolation. Benchmarked at 4–9M frames/sec.
+
+`go` `raw tcp` `linux namespaces` `etcd` `prometheus`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🛡️ Nullify](https://github.com/AnshKanyadi/Nullify)**
+
+Performance-critical privacy engine compiled to WebAssembly. Sub-10ms p95 latency per 1k DOM nodes with 99.9% PII extraction accuracy.
+
+`c++` `webassembly` `low-latency systems`
+
+</td>
+<td width="50%">
+
+**🔨 what's next**
+
+Reading CS:APP cover to cover. Studying DDIA. Deepening Nullify with SIMD optimizations. Targeting S-tier internships for Summer 2026.
+
+</td>
+</tr>
+</table>
+
+---
+
+### how i think about engineering
+
+```
+i don't build demos. i build systems.
+
+→ custom protocols over raw tcp, not websocket wrappers
+→ linux namespaces directly, not docker api calls
+→ token-level recording, not text-level logging
+→ deterministic replay, not "just run it again"
+
+the goal is always: understand what's happening one layer deeper
+than you need to, and build at that layer.
+```
+
+---
+
+### stack
+
+```text
+systems          go · c++ · c · linux · raw tcp · namespaces · seccomp
+ai infra         python · anthropic sdk · openai sdk · llm instrumentation
+backend          fastapi · postgresql · sqlite · docker · aws · terraform
+frontend         react · typescript · xterm.js · tailwind
+tools            git · prometheus · opentelemetry · github actions · valgrind
+currently        reading cs:app · designing data-intensive applications
+```
+
+---
+
+### experience
+
+**Roku** — SWE Intern · Real-time data pipelines, multi-threaded rendering, 60 FPS lock
+
+**Hammerspace** — SWE Intern · Distributed scheduling, PostgreSQL optimization, 60% latency reduction
+
+**UMass Amherst** — CS '28 · 3.85 GPA
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshkanyadi&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="streak" />
+</p>
+
+<p align="center">
+  <em>"top 1% resumes show you can build something that mattered to someone other than yourself."</em>
+</p>
