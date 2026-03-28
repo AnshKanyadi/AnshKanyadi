@@ -59,21 +59,7 @@ Reading CS:APP cover to cover. Studying DDIA. Deepening Nullify with SIMD optimi
 
 ---
 
-### how i think about engineering
 
-```
-i don't build demos. i build systems.
-
-→ custom protocols over raw tcp, not websocket wrappers
-→ linux namespaces directly, not docker api calls
-→ token-level recording, not text-level logging
-→ deterministic replay, not "just run it again"
-
-the goal is always: understand what's happening one layer deeper
-than you need to, and build at that layer.
-```
-
----
 
 ### stack
 
