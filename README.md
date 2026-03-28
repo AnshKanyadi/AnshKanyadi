@@ -51,7 +51,7 @@ Performance-critical privacy engine compiled to WebAssembly. Sub-10ms p95 latenc
 
 **🔨 what's next**
 
-Reading CS:APP cover to cover. Studying DDIA. Deepening Nullify with SIMD optimizations. Targeting S-tier internships for Summer 2026.
+Reading CS:APP cover to cover. Studying DDIA. Deepening Nullify with SIMD optimizations. Targeting S-tier internships for Summer 2027.
 
 </td>
 </tr>
