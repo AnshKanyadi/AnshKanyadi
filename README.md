@@ -20,7 +20,7 @@
 <tr>
 <td width="50%">
 
-**[🔮 Prismo](https://github.com/AnshKanyadi/Prismo)**
+**[Culpa](https://github.com/AnshKanyadi/Culpa)**
 
 Deterministic replay & counterfactual debugging for AI coding agents. Records every LLM call with token-level fidelity, replays failures exactly, and forks at any decision node to test "what if?" scenarios.
 
@@ -29,7 +29,7 @@ Deterministic replay & counterfactual debugging for AI coding agents. Records ev
 </td>
 <td width="50%">
 
-**[⚡ Conduit](https://github.com/AnshKanyadi/Conduit)**
+**[Conduit](https://github.com/AnshKanyadi/Conduit)**
 
 Distributed terminal collaboration engine with a custom binary framing protocol, adaptive flow control, and Linux namespace isolation. Benchmarked at 4–9M frames/sec.
 
@@ -40,7 +40,7 @@ Distributed terminal collaboration engine with a custom binary framing protocol,
 <tr>
 <td width="50%">
 
-**[🛡️ Nullify](https://github.com/AnshKanyadi/Nullify)**
+**[Nullify](https://github.com/AnshKanyadi/Nullify)**
 
 Performance-critical privacy engine compiled to WebAssembly. Sub-10ms p95 latency per 1k DOM nodes with 99.9% PII extraction accuracy.
 
